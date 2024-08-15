@@ -8,7 +8,7 @@
 
 <h3>
   1. Quiz Game <br>
-  2. To Do List Application
+  2. To Do List Application <br>
   3. Or maybe the simple Guess the Number game
 </h3>
 
