@@ -12,3 +12,10 @@
   2. To Do List Application
 </h3>
 
+<br>
+<p>
+  I'm just learning some important knowledge RN. 
+  
+  
+</p>
+
